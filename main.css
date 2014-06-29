@@ -1,0 +1,37 @@
+.userForm{
+	text-align: center;
+	width: 50%;
+	border: 1px solid grey;
+	margin-top: 5%;
+	margin-left: 10%;
+	background-color: purple;
+}
+
+table{
+	margin: 50px 50px;
+
+}
+
+.submit{
+	margin-left: 45%;
+}
+
+.userInfo{
+	width: 50%;
+	text-align: left;
+	margin-left: 10%;
+	margin-top:5%;
+	background-color: yellow;
+	height: 400px;
+	display: none;
+}
+
+#edit-form{
+	margin-bottom: 1%;
+	display: block;
+}
+
+.hide-or-show{
+	display: none;
+}
+
